@@ -38,9 +38,9 @@
                 Rekenen
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="/app1/index.html">Tafel genereer-app</a></li>
-                <li><a class="dropdown-item" href="/app2/index.html">Tafel oefen-app</a></li>
-                <li><a class="dropdown-item" href="/app3/index.html">app 3</a></li>
+                <li><a class="dropdown-item" href="/app1/index.php">Tafel genereer-app</a></li>
+                <li><a class="dropdown-item" href="/app2/index.php">Tafel oefen-app</a></li>
+                <li><a class="dropdown-item" href="/app3/index.php">app 3</a></li>
               </ul>
             </li>
           </ul>
